@@ -23,3 +23,6 @@ koi_pdisposition: The disposition Kepler data analysis has towards this exoplane
 koi_score: A value between 0 and 1 that indicates the confidence in the KOI disposition. For CANDIDATEs, a higher value indicates more confidence in its disposition, while for FALSE POSITIVEs, a higher value indicates less confidence in that disposition.
 
 As for the scope of this analysis, some columns have been omitted. You can find the original Kaggle dataset here: https://www.kaggle.com/nasa/kepler-exoplanet-search-results
+
+
+https://github.com/AliceSartori/Exoplanet_NASA_MachineLEarningModel/blob/main/exoplanets.jpeg
