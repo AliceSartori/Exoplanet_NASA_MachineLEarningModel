@@ -29,7 +29,7 @@ As for the scope of this analysis, some columns have been omitted. You can find 
 # Classifier algos used
 1. Neural Network & Deep Learning
 2. Random Forest classifier
-3. GridSearchCV on the Random Forest, a method that evaluates all combinations I define in my list of params. 
+3. GridSearchCV on Random Forest, a method that evaluates all combinations I define in my list of params. 
 
 # Is Accuracy the best metric?
 To not incurr in an imbalanced classification problem (a scenario where the number of observations belonging to one class is significantly lower than those belonging to the other classes), I used classification report to get recall, precision and F1 score.
