@@ -14,7 +14,7 @@ Kepler had verified 1284 new exoplanets as of May 2016. As of October 2017 there
 Content
 This dataset is a cumulative record of all observed Kepler "objects of interest" — basically, all of the approximately 10,000 exoplanet candidates Kepler has taken observations on.
 
-This dataset has an extensive data dictionary, which can be accessed here [DataseKaggle](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). Highlightable columns of note are:
+This dataset has an extensive data dictionary, which can be accessed here [Kaggle](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html). Highlightable columns of note are:
 
 kepoi_name: A KOI is a target identified by the Kepler Project that displays at least one transit-like sequence within Kepler time-series photometry that appears to be of astrophysical origin and initially consistent with a planetary transit hypothesis
 kepler_name: [These names] are intended to clearly indicate a class of objects that have been confirmed or validated as planets—a step up from the planet candidate designation.
