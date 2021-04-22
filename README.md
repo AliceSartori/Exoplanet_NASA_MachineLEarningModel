@@ -23,5 +23,5 @@ kepler_name: [These names] are intended to clearly indicate a class of objects t
 
 As for the scope of this analysis, some columns have been omitted. You can find the original Kaggle dataset here on [Kaggle](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
 
+![Image](https://github.com/AliceSartori/Exoplanet_NASA_MachineLEarningModel/blob/main/exoplanets.jpeg)
 
-https://github.com/AliceSartori/Exoplanet_NASA_MachineLEarningModel/blob/main/exoplanets.jpeg
