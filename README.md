@@ -26,7 +26,7 @@ As for the scope of this analysis, some columns have been omitted. You can find 
 ![Image](https://github.com/AliceSartori/Exoplanet_NASA_MachineLEarningModel/blob/main/exoplanets.jpeg)
 
 
-# Classifiers algorithms used
+# Classifier algos used
 1. Neural Network & Deep Learning
 2. Random Forest classifier
 3. GridSearchCV on the Random Forest, a method that evaluates all combinations I define in my list of params. 
