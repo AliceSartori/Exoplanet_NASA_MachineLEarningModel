@@ -25,3 +25,20 @@ As for the scope of this analysis, some columns have been omitted. You can find 
 
 ![Image](https://github.com/AliceSartori/Exoplanet_NASA_MachineLEarningModel/blob/main/exoplanets.jpeg)
 
+
+# Classifiers algorithms used
+1. Neural Network & Deep Learning
+2. Random Forest classifier
+3. GridSearchCV on the Random Forest, a method that evaluates all combinations I define in my list of params. 
+
+# Is Accuracy the best metric?
+To not incurr in an imbalanced classification problem (a scenario where the number of observations belonging to one class is significantly lower than those belonging to the other classes), I used classification report to get recall, precision and F1 score.
+
+In fact, the predictive model developed using conventional machine learning algorithms could be biased and inaccurate.
+
+This happens because Machine Learning Algorithms are usually designed to improve accuracy by reducing the error. Thus, they do not take into account the class distribution / proportion or balance of classes.
+
+After looking at the reports, I can say that Random Forest is the best algo used. With GridSearch, I wasn't able to get better results even adjusting the params. I'll investigate into these further.
+
+
+
