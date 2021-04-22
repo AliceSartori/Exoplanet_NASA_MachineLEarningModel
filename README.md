@@ -38,7 +38,7 @@ In fact, the predictive model developed using conventional machine learning algo
 
 This happens because Machine Learning Algorithms are usually designed to improve accuracy by reducing the error. Thus, they do not take into account the class distribution / proportion or balance of classes.
 
-After looking at the reports, I can say that Random Forest is the best algo used. With GridSearch, I wasn't able to get better results even adjusting the params. I'll investigate into these further.
+After looking at the reports, I can say that Random Forest performs the best. With GridSearch, I wasn't able to get better results even adjusting the params. I'll investigate into these further.
 
 
 
